@@ -1,0 +1,8 @@
+# Unity sahne/asset (YAML) dosyalarında satır sonları olduğu gibi saklansın
+* -text
+*.cs diff=csharp
+*.png binary
+*.jpg binary
+*.ttf binary
+*.pdf binary
+*.mp4 binary

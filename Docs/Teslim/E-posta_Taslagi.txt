@@ -1,0 +1,22 @@
+Kime:    ziyad.guliyev@nisantasi.edu.tr
+Konu:    Mutlu Prens Vize – Grup LAFF
+Ek:      Vize_MutluPrens_GrupLAFF.pdf
+
+(E-postayı yalnızca yapımcı gönderir. Build ve video bağlantıları eklenince PDF'i yeniden üretip öyle gönderin.)
+
+----------------------------------------------------------------------
+
+Merhaba Hocam,
+
+Mobil Oyun Programlama dersi Mutlu Prens vize teslimimizi ekte gönderiyoruz.
+
+Grup:            LAFF
+Ekip üyeleri:    Ata Güler, Utku Kaya
+
+Bağlantılar (PDF'in ilk sayfasında da yer alıyor, hepsi herkese açık):
+- Build (Windows):     [build bağlantısı]
+- Oynanış videosu:     [video bağlantısı]
+- Git deposu:          https://github.com/AtaGuler0/HappyPrince
+
+Saygılarımızla,
+Ata Güler

@@ -1,0 +1,46 @@
+# Unity tarafından yeniden üretilen klasörler
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build çıktıları (build ayrı bir bağlantıyla paylaşılır)
+/[Bb]uild/
+/[Bb]uilds/
+/[Bb]uilds.zip
+
+# IDE / çözüm dosyaları
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Ekran görüntüsü aracı çıktısı ve büyük teslim dosyaları
+/Screenshots/
+/Docs/Teslim/*.mp4
+/Docs/Teslim/*.zip
+/Docs/Teslim/_pdf_gorseller/
+/Docs/Taslak_Ekran_Goruntuleri/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
+/Docs/Teslim/*.pdf
+/Docs/Teslim/teslim.html
+/Docs/Teslim/teslim_bilgileri.json
